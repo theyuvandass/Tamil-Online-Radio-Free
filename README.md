@@ -4,6 +4,8 @@ A dynamic, ad-blocking streaming proxy server and gorgeous searchable dark-mode 
 
 This server implements real-time client-synchronization, player handshake emulation, and ad-server bypasses to provide completely clean, uninterrupted music streams directly to **VLC Media Player** or any other network player.
 
+🌐 **Live Website URL**: [freeradiotamil.onrender.com](https://freeradiotamil.onrender.com/)
+
 ---
 
 ## ✨ Features
@@ -67,4 +69,4 @@ This project is fully optimized for cloud hosting on **Render.com** (using their
    - **Instance Type**: `Free`
 5. Click **Deploy Web Service**!
 
-Render will build your environment and provide a public URL (e.g. `https://tamil-free-radio.onrender.com/`). The dashboard automatically detects the cloud hosting and updates all copied links to your dynamic public URL.
+Render will build your environment and provide a public URL (e.g. `https://freeradiotamil.onrender.com/`). The dashboard automatically detects the cloud hosting and updates all copied links to your dynamic public URL.
