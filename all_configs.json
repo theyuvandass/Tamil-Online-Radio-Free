@@ -1,0 +1,45 @@
+{
+  "results": [
+    {
+      "objectId": "tQlLmcPyN9",
+      "tabs": [
+        "Favourite",
+        "Southradios",
+        "Live fm",
+        "Featured"
+      ],
+      "contributions": "👍 UI Design And Created by : Raghu Raman Senior – UX/UI Designer ❤️ , Developed & Integrated By: Bluewave App Factory ❤️, Back-end Team & Ideas By:  southradios.com, Sivakumar Chinnasammy , Karunakaran Kamaleswaran, Karunakaran Kallis, Kayalvizhi Sivajikumar, Priya Kamaleswaran ",
+      "adLoadCount": 1,
+      "androidMinimumSupport": 80000011,
+      "createdAt": "2020-11-02T06:44:54.261Z",
+      "updatedAt": "2026-05-17T04:17:06.681Z",
+      "iOSMinimumSupport": 40806,
+      "platform": "android",
+      "ACL": {
+        "*": {
+          "read": true
+        }
+      }
+    },
+    {
+      "objectId": "QAzcq0rBUC",
+      "tabs": [
+        "Favourite",
+        "Southradios",
+        "Live fm",
+        "Featured"
+      ],
+      "contributions": "👍 UI Design And Created by : Raghu Raman Senior – UX/UI Designer ❤️ , Developed & Integrated By: Bluewave App Factory ❤️, Back-end Team & Ideas By:  southradios.com, Sivakumar Chinnasammy , Karunakaran Kamaleswaran, Karunakaran Kallis, Kayalvizhi Sivajikumar, Priya Kamaleswaran ",
+      "adLoadCount": 1,
+      "iOSMinimumSupport": 40806,
+      "createdAt": "2023-05-13T21:36:25.256Z",
+      "updatedAt": "2026-05-17T04:17:10.379Z",
+      "androidMinimumSupport": 80000011,
+      "ACL": {
+        "*": {
+          "read": true
+        }
+      }
+    }
+  ]
+}

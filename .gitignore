@@ -1,0 +1,26 @@
+# Python Cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Backup & Unwanted folders
+local_backup/
+extracted/
+Southradios files/
+
+# Local logs and debug trace files
+proxy_debug.txt
+query_output.txt
+*.log
+
+# Large binaries & recordings (if any slip into root)
+*.apk
+*.aac
+*.mp3
+
+# IDE / Operating System files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
